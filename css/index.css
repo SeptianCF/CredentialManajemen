@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC');
+
+
+
+.gambar {
+    min-height: 650px;
+    background-image : url(../foto/background.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 50vh ;
+}
+
+.bg-info {
+    padding: 10%;
+    min-height: 650px;
+    height: 100%;
+}
+
+#interest {
+    padding: 5%;
+    background-color: #03A9F4 ;
+    height: 70%;
+}
+
+.copyright {
+    min-height: 50px;
+    padding: 20px;
+}
+
+.section-heading {
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.img-thumbnail {
+    size: 200px;
+}
+
+.fab {
+    color: white;
+    padding: 10px;
+}
+
+.post {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    position: relative;
+    cursor: pointer;
+}
+
+.post img {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+
+.header{
+    margin-right: 40px;
+    background-color:#03A9F4;
+}
+
+.nav-link{
+    font-size: 1.3em;
+    margin: 0 10px;
+    color: aliceblue;
+}
+
+body {
+    font-family: 'Noto Serif SC', serif;
+}
+
+.navigasi {
+    background-color: #03A9F4;
+}
+
+.navbar-brand {
+    color: aliceblue
+}
+.bg {
+    background-color: #03A9F4 ;
+}
